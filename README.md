@@ -23,7 +23,7 @@ Dana will design a javascript program to go through the data and she will develo
 * country
 * shape
 
-The data unfiltered is presented above.  However, if a user wants to see only those UFO sightings in California, a user can go on to the HTML and in the state filter box enter "ca" and hit the filter button and the list will provide only those sightings located in California as shown below:
+The data unfiltered is presented above.  However, if a user wants to see only those UFO sightings in California, for example, a user can go on to the HTML and in the state filter box enter "ca" and hit the filter button and the list will provide only those sightings located in California as shown below:
 
 ![UFO Sightings](https://user-images.githubusercontent.com/35401581/138946864-20877d39-79ea-4491-9304-1c99d79e3a3f.png)
 
